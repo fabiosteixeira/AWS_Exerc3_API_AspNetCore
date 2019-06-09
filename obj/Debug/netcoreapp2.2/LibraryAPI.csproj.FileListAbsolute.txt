@@ -1,0 +1,14 @@
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.deps.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.runtimeconfig.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.runtimeconfig.dev.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.dll
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.pdb
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.csprojAssemblyReference.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.csproj.CoreCompileInputs.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.RazorAssemblyInfo.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.RazorAssemblyInfo.cs
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.AssemblyInfoInputs.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.AssemblyInfo.cs
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.RazorTargetAssemblyInfo.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.dll
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio2/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.pdb
